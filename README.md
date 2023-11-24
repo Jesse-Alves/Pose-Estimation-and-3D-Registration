@@ -24,11 +24,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://www.ufba.br/">
-    <img src="images/logo.png" alt="Logo" width="80" height="123">
+  <a href="https://healthtech.unistra.fr/">
+    <img src="images/logo.JPG" alt="Logo" width="360" height="120">
   </a>
 
-  <h1 align="center">Robust Predictive Controller for Concentration and Level of a Continuous Stirred Tank Reactor (CSTR)</h1>
+  <h1 align="center">Pose Estimation and 3D Registration Analysis</h1>
 
   <p align="center">
     <a href="https://github.com/Jesse-Alves?tab=repositories"><strong>View all repositories  »</strong></a>
@@ -71,15 +71,23 @@
 ## About The Project
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-The article discusses the concentration and level control of a continuous stirred-tank reactor, CSTR (acronym in English for continuous stirred-tank reactor). As they are equipment widely used in the chemical industry, they need to operate under specific production conditions, given that the safety of these processes depends on the balance and stability of the chemical reactions that occur inside them. In this context, in addition to the explanation of theoretical aspects related to the robust predictive control techniques used to design the controller for some CSTR variables, the linearization stage, which precedes the control itself, was also described, as well as the specifications required for the project. in question. Furthermore, some expressions used in the project development stages were highlighted and, finally, some discussions were raised about the results obtained.
+This Pose Estimation and 3D Registration paper evaluates various methods for resolving the PnP problem from a single perspective projection imaging device. The project compares the analytic PnP method, linear method, and numerical optimization methods to demonstrate their advantages and drawbacks. Through analysis, the Levenberg-Marquardt optimization algorithm and analytical resolution method had the lowest percentage of error. The article explains the theory behind pose estimation and how it relates to the methods discussed. Overall, this work provides valuable insights into the PnP problem and its solutions, which can be useful for researchers and practitioners in the field of computer vision.
 
-Keywords: CSTR, linearization, robust control, fluid, level, concentration.
-[Full article](https://github.com/Jesse-Alves/Robust-Predictive-Controller-for-Concentration-and-Level-of-a-Continuous-Stirred-Tank-Reactor-CSTR-/blob/main/Paper/Article%20-%20Robust_Predictive_Control.pdf)
+Keywords: Pose estimation, 3D registration, PnP problem, Analytic PnP method, Numerical optimization, Levenberg-Marquardt algorithm.
+[Full article](https://github.com/Jesse-Alves/Pose-Estimation-and-3D-Registration/blob/main/Pose_Estimation_3D_Registration.pdf)
 
+<!--
 <p float="left">
-  <img src="images/img1.png" width="500" height="450" />
-<!--   <img src="images/img2.jpg" width="500" height="300" /> -->
+  <img src="images/img.png" width="500" height="450" />
+<!--   <img src="images/img2.jpg" width="500" height="300" /> 
 </p>
+-->
+
+<div align="center">
+  <a href="https://github.com/Jesse-Alves/Pose-Estimation-and-3D-Registration/blob/main/Pose_Estimation_3D_Registration.pdf">
+    <img src="images/img.png" width="500" height="450" />
+  </a>
+</div>
 
 
 <!--
@@ -112,7 +120,6 @@ Keywords: CSTR, linearization, robust control, fluid, level, concentration.
 * [![JQuery][JQuery.com]][JQuery-url] -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -156,9 +163,9 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-All the codes of the project are available [here](https://github.com/Jesse-Alves/Robust-Predictive-Controller-for-Concentration-and-Level-of-a-Continuous-Stirred-Tank-Reactor-CSTR-/tree/main/codes). Where the code [dadosProjCSTR_Preditivo.m](https://github.com/Jesse-Alves/Robust-Predictive-Controller-for-Concentration-and-Level-of-a-Continuous-Stirred-Tank-Reactor-CSTR-/blob/main/codes/dadosProjCSTR_Preditivo.m) shows the convertion of the code. And the code [CSTR_PREDITIVO.m](https://github.com/Jesse-Alves/Robust-Predictive-Controller-for-Concentration-and-Level-of-a-Continuous-Stirred-Tank-Reactor-CSTR-/blob/main/codes/CSTR_PREDITIVO.m) shows the ploting graphs. 
+All the codes of the project are available [here](https://github.com/Jesse-Alves/Pose-Estimation-and-3D-Registration/tree/main/Codes).  
 
-More details about the project can be found in the [article](https://github.com/Jesse-Alves/Robust-Predictive-Controller-for-Concentration-and-Level-of-a-Continuous-Stirred-Tank-Reactor-CSTR-/blob/main/Paper/Article%20-%20Robust_Predictive_Control.pdf) attached.
+More details about the project can be found in the [article](https://github.com/Jesse-Alves/Pose-Estimation-and-3D-Registration/blob/main/Pose_Estimation_3D_Registration.pdf) attached.
 
 
 
