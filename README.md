@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://healthtech.unistra.fr/">
-    <img src="images/logo.JPG" alt="Logo" width="360" height="120">
+    <img src="images/logo.JPG" alt="Logo" width="720" height="120">
   </a>
 
   <h1 align="center">Pose Estimation and 3D Registration Analysis</h1>
