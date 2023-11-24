@@ -125,7 +125,7 @@ Keywords: Pose estimation, 3D registration, PnP problem, Analytic PnP method, Nu
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is a robust predective controller project designed in Matlab software.
+This is a Pose Estimation project designed in Matlab software.
 
 ### Prerequisites
 
